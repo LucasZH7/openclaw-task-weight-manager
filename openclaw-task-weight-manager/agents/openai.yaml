@@ -1,6 +1,6 @@
 interface:
   display_name: "Task Weight Manager"
-  short_description: "Keep one chat focused across many threads"
+  short_description: "Split one chat into focused weighted threads"
   icon_small: "./assets/icon.svg"
   icon_large: "./assets/icon.svg"
   brand_color: "#0F766E"
